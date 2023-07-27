@@ -1,1 +1,1 @@
-{"url": "http://r80wfrwx6p3zxirafuryoszv0m6du7iw.oastify.com", "db_name": "geolite2-Country.csv", "sha256_hash": "b9iUEKIdpoNCnfx4U5YHl8vx8C6iFr4ppg21+fKHY6w=", "valid_for_in_days": 30, "updated_at_in_epoch_milli": 1689949827000, "provider": "maxmind"}
+{"url": "https://raw.githubusercontent.com/testrandomdata/jsonpayload/main/zip.zip", "db_name": "geolite2-Country.csv", "sha256_hash": "b9iUEKIdpoNCnfx4U5YHl8vx8C6iFr4ppg21+fKHY6w=", "valid_for_in_days": 30, "updated_at_in_epoch_milli": 1689949827000, "provider": "maxmind"}
