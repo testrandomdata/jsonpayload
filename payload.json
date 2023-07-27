@@ -1,1 +1,1 @@
-{"url": "https://github.com/testrandomdata/jsonpayload/raw/main/notsafe.zip", "db_name": "geolite2-Country.csv", "valid_for_in_days": 30, "updated_at_in_epoch_milli": 1689949827000, "provider": "maxmind"}
+{"url": "https://github.com/testrandomdata/jsonpayload/raw/main/zip.zip", "db_name": "geolite2-Country.csv", "sha256_hash": "b9iUEKIdpoNCnfx4U5YHl8vx8C6iFr4ppg21+fKHY6w=", "valid_for_in_days": 30, "updated_at_in_epoch_milli": 1689949827000, "provider": "maxmind"}
